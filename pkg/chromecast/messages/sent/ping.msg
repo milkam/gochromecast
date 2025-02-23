@@ -1,0 +1,1 @@
+protocol_version:CASTV2_1_0  source_id:"sender-vjerci"  destination_id:"receiver-0"  namespace:"urn:x-cast:com.google.cast.tp.heartbeat"  payload_type:STRING  payload_utf8:"{\"type\":\"PING\",\"requestId\":3}"

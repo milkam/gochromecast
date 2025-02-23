@@ -30,3 +30,8 @@ You should now see your movie spring_original beeing played on your tv together 
 ## Future development
 
 I might improve the chromecast thing adding features to it, however i don't plan on adding ffmpeg support at this time.
+
+## Learning more about chromecast
+
+I have written a blog series about chromecast diving deep into it.
+You can find it on [my blog](https://vjerci.com/writings/chromecast/basics/)

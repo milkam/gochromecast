@@ -3,7 +3,7 @@ package chromecast
 import (
 	"log"
 
-	"github.com/vjerci/gochromecast/pkg/chromecast/proto/castchannel"
+	"github.com/milkam/gochromecast/pkg/chromecast/proto/castchannel"
 )
 
 var PayloadTypeLoad = "LOAD"

@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/google/uuid"
-	"github.com/vjerci/gochromecast/pkg/chromecast/proto/castchannel"
+	"github.com/milkam/gochromecast/pkg/chromecast/proto/castchannel"
 )
 
 type MessageSubscriberUnsubscribe interface {

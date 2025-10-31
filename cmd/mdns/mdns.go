@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/vjerci/gochromecast/pkg/mdns"
+	"github.com/milkam/gochromecast/pkg/mdns"
 )
 
 func main() {

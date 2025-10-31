@@ -3,7 +3,7 @@ package chromecast
 import (
 	"context"
 
-	"github.com/vjerci/gochromecast/pkg/mdns"
+	"github.com/milkam/gochromecast/pkg/mdns"
 )
 
 type Client struct {

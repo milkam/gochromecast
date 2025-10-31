@@ -1,4 +1,4 @@
-module github.com/vjerci/gochromecast
+module github.com/milkam/gochromecast
 
 go 1.23.4
 

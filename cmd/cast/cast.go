@@ -7,10 +7,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/vjerci/gochromecast/pkg/chromecast"
-	"github.com/vjerci/gochromecast/pkg/ip"
-	"github.com/vjerci/gochromecast/pkg/mdns"
-	"github.com/vjerci/gochromecast/pkg/server"
+	"github.com/milkam/gochromecast/pkg/chromecast"
+	"github.com/milkam/gochromecast/pkg/ip"
+	"github.com/milkam/gochromecast/pkg/mdns"
+	"github.com/milkam/gochromecast/pkg/server"
 )
 
 func main() {

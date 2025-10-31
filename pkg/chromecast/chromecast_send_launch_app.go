@@ -1,6 +1,6 @@
 package chromecast
 
-import "github.com/vjerci/gochromecast/pkg/chromecast/proto/castchannel"
+import "github.com/milkam/gochromecast/pkg/chromecast/proto/castchannel"
 
 var PayloadTypeLaunch = "LAUNCH"
 
